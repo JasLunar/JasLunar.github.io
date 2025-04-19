@@ -4,7 +4,7 @@ This is my home page! My name is Jasmine Lunar and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/JasLunar.
+My GitHub page is [http://github.com/JasLunar](https://github.com/JasLunar).
 
 ### CPSC 120
 
