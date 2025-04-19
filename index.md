@@ -4,13 +4,13 @@ This is my home page! My name is Jasmine Lunar and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/JasLunar](https://github.com/JasLunar).
+My GitHub page is [http://github.com/JasLunar](https://github.com/JasLunar/).
 
 ### CPSC 120
 
 * Lab 7
 
-   Lab 7 part 1 "Parking Rules" was one of the more engaging assignments because it required a practical implementation of programming into everyday real-world scenarios. I was able to use tracing techniques and the logic of negations and conditional statements involving comparison operations, and/or, and sequences to provide an output that corroborates with the logic of parking rules. I learned how to translate specific details and compounding conditions into coed that produces a clear answer using if condition statements and Boolean functions.  
+   Lab 7 part 1 "Parking Rules" was one of the more engaging assignments because it required a practical implementation of programming into everyday real-world scenarios. I was able to use tracing techniques and the logic of negations and conditional statements involving comparison operations, and/or, and sequences to provide an output that corroborates with the logic of parking rules. I learned how to translate specific details and compounding conditions into code that produces a clear answer using if condition statements and Boolean functions.  
 
 * Lab 8
 
